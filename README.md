@@ -11,6 +11,7 @@ Hit enter TWICE to create a new line.
 3. Ask the professor for help during office hours or the TA's for extra help.
 
 ##Activity 2
+
 Q1. 10 is the value
 
 
