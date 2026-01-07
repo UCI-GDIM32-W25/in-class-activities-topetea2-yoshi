@@ -27,10 +27,10 @@ Q4. MonoBehavior
 Q5. X = 10 is going to print at the start of the game
 
 
-Q6. 10 is our value and "x = " + X is a string that will be printed out in code. 
+Q6. int = 10 is our parameter and "x = " + X is a Debug.log method that will be printed out on the console.  
 
 
-Q7. The code is using a datatype vaule, which will not compile once we run the game. 
+Q7. The code is using a datatype value, which will not compile once we run the game. 
 
 
 Q8. We change Transform to _playerTransform in order to fix the error. 
