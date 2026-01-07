@@ -35,8 +35,8 @@ Q7. The code is using a datatype value, which will not compile once we run the g
 
 Q8. We change Transform to _playerTransform in order to fix the error. 
 
-
-
+#Activity 3
+Google doc: https://docs.google.com/document/d/1A1lkqSfYbcQn9UN1hMjbRY7x2fuXZEa0aiapVb3bzUQ/edit?tab=t.0#heading=h.7bwi6hg1wejp
 - Create bullet points by writing dashes.
 - Here's another bullet point entry.
 
