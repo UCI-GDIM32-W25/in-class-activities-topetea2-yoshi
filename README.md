@@ -5,12 +5,12 @@ Put each week's activities under new headers like the one shown above. Headers a
 
 Hit enter TWICE to create a new line.
 
-##W1 In class activities
+## W1 In class activities
 1. Don't procrastinate on weekly minigame assignments and submit it on time. 
 2. Make sure you have enough storage on your computer.
 3. Ask the professor for help during office hours or the TA's for extra help.
 
-##Activity 2
+## Activity 2
 
 Q1. 10 is the value
 
@@ -35,7 +35,7 @@ Q7. The code is using a datatype value, which will not compile once we run the g
 
 Q8. We change Transform to _playerTransform in order to fix the error. 
 
-#Activity 3
+## Activity 3
 Google doc: https://docs.google.com/document/d/1A1lkqSfYbcQn9UN1hMjbRY7x2fuXZEa0aiapVb3bzUQ/edit?tab=t.0#heading=h.7bwi6hg1wejp
 - Create bullet points by writing dashes.
 - Here's another bullet point entry.
