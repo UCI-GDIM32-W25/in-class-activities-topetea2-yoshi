@@ -12,12 +12,26 @@ Hit enter TWICE to create a new line.
 
 ##Activity 2
 Q1. 10 is the value
+
+
 Q2. Since the code is a repeated loop, the value will be 2.
+
+
 Q3. Prints out hello world once you run the code. 
+
+
 Q4. MonoBehavior 
+
+
 Q5. X = 10 is going to print at the start of the game
+
+
 Q6. 10 is our value and "x = " + X is a string that will be printed out in code. 
+
+
 Q7. The code is using a datatype vaule, which will not compile once we run the game. 
+
+
 Q8. We change Transform to _playerTransform in order to fix the error. 
 
 
