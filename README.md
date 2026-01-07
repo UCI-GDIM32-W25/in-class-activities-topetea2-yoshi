@@ -5,7 +5,9 @@ Put each week's activities under new headers like the one shown above. Headers a
 
 Hit enter TWICE to create a new line.
 
-## Week 1 In class activities
+## Week 1: In class activities
+
+## Activity 1
 1. Don't procrastinate on weekly minigame assignments and submit it on time. 
 2. Make sure you have enough storage on your computer.
 3. Ask the professor for help during office hours or the TA's for extra help.
