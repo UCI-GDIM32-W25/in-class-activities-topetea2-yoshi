@@ -44,9 +44,14 @@ Google doc: https://docs.google.com/document/d/1A1lkqSfYbcQn9UN1hMjbRY7x2fuXZEa0
 ## Week 2
 
 Activity 1: 
+1. ![1000008408](https://github.com/user-attachments/assets/206f0fec-e795-4420-b785-840056ba326e)
 
+Activity 2:
 
 1. 
+
+
+
 - Create bullet points by writing dashes.
 - Here's another bullet point entry.
 
