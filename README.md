@@ -43,11 +43,11 @@ Q8. We change Transform to _playerTransform in order to fix the error.
 
 ## Week 2
 
-Activity 1: 
+## Activity 1: 
 ![Image](https://github.com/user-attachments/assets/206f0fec-e795-4420-b785-840056ba326e)
 
 
-Activity 2:
+## Activity 2:
 
 [Commit](https://github.com/UCI-GDIM32-W25/mg2-topetea2-yoshi/commits/main/)
 
