@@ -54,6 +54,9 @@ Activity 2:
 2. One thing that I was working on was the layout of the game by adding the platform, coins, and player. I've also started some coding in the process and added some colliders to the GameObjects.  
 
 
+
+
+
 - Create bullet points by writing dashes.
 - Here's another bullet point entry.
 
