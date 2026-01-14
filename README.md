@@ -38,19 +38,20 @@ Q7. The code is using a datatype value, which will not compile once we run the g
 Q8. We change Transform to _playerTransform in order to fix the error. 
 
 ## Activity 3
-Google doc: https://docs.google.com/document/d/1A1lkqSfYbcQn9UN1hMjbRY7x2fuXZEa0aiapVb3bzUQ/edit?tab=t.0#heading=h.7bwi6hg1wejp
+[Google doc](https://docs.google.com/document/d/1A1lkqSfYbcQn9UN1hMjbRY7x2fuXZEa0aiapVb3bzUQ/edit?tab=t.0#heading=h.7bwi6hg1wejp)
 
 
 ## Week 2
 
 Activity 1: 
-![1000008408](https://github.com/user-attachments/assets/206f0fec-e795-4420-b785-840056ba326e)
+![Image](https://github.com/user-attachments/assets/206f0fec-e795-4420-b785-840056ba326e)
 
 
 Activity 2:
 
-1. 914219d838cff8b7d550b33ad314ad1f0352ad94
+[Commit](https://github.com/UCI-GDIM32-W25/mg2-topetea2-yoshi/commits/main/)
 
+2. One thing that I was working on was the layout of the game by adding the platform, coins, and player. I've also started some coding in the process and added some colliders to the GameObjects.  
 
 
 - Create bullet points by writing dashes.
