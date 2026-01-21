@@ -51,7 +51,11 @@ Q8. We change Transform to _playerTransform in order to fix the error.
 
 [Commit](https://github.com/UCI-GDIM32-W25/mg2-topetea2-yoshi/commits/main/)
 
-2. One thing that I was working on was the layout of the game by adding the platform, coins, and player. I've also started some coding in the process and added some colliders to the GameObjects.  
+2. One thing that I was working on was the layout of the game by adding the platform, coins, and player. I've also started some coding in the process and added some colliders to the GameObjects.
+
+## Week 3:
+
+Activity 0: 
 
 
 
