@@ -55,11 +55,13 @@ Q8. We change Transform to _playerTransform in order to fix the error.
 
 ## Week 3:
 
-Activity 0-2 
+## Activity 0-2 
+
 Partner: Ruth Sun
 
 
-Activity 3
+## Activity 3
+
 [Image](https://github.com/user-attachments/assets/17e7f7d4-07dc-486a-a0d8-7880205ae13f)
 
 
