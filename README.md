@@ -5,7 +5,7 @@ Put each week's activities under new headers like the one shown above. Headers a
 
 Hit enter TWICE to create a new line.
 
-## Week 1: In class activities
+# Week 1: In class activities
 
 ## Activity 1
 1. Don't procrastinate on weekly minigame assignments and submit it on time. 
@@ -41,7 +41,7 @@ Q8. We change Transform to _playerTransform in order to fix the error.
 [Google doc](https://docs.google.com/document/d/1A1lkqSfYbcQn9UN1hMjbRY7x2fuXZEa0aiapVb3bzUQ/edit?tab=t.0#heading=h.7bwi6hg1wejp)
 
 
-## Week 2:  In class activities
+# Week 2:  In class activities
 
 ## Activity 1: 
 ![Image](https://github.com/user-attachments/assets/206f0fec-e795-4420-b785-840056ba326e)
