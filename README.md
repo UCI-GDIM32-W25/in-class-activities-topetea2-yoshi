@@ -84,7 +84,9 @@ Activity 2:
 <img width="4080" height="2296" alt="image" src="https://github.com/user-attachments/assets/77eed324-90ba-4461-847a-e0c6080969e0" />
 
 Activity 3: 
-So far, I imported the assets 
+
+[Commit] [https://github.com/topetea2-yoshi/HW4/commit/d3ea75ab614152b49b0cbf1d8c96a0231f2b2ee3] 
+For MG4, I imported the assets in the unity project and slice every single sprite individually. 
 
 
 
