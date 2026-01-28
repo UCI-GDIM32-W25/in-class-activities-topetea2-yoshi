@@ -74,7 +74,7 @@ Activity 0
 Partner: Ruth Sun
 
 
-Activity 1: 
+# Activity 1: 
 
 When mutiple locators are set in the scene, most of the gameobjects loses its script once the game runs. In our code we wrote "Locator.Awake()," which deletes the extra "Locator" scripts from some of the components, leaving only one script in the scene.
 
