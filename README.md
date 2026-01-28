@@ -68,7 +68,7 @@ Partner: Ruth Sun
 
 # Week 4
 
-## Activity 0
+## Activity 0:
 
 Partner: Ruth Sun
 
