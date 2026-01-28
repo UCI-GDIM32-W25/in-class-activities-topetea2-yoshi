@@ -66,6 +66,30 @@ Partner: Ruth Sun
 
 
 
+## Week 4
+
+Activity 0
+
+
+Partner: Ruth Sun
+
+
+Activity 1: 
+
+When mutiple locators are set in the scene, most of the gameobjects loses its script once the game runs. In our code we wrote "Locator.Awake()," which deletes the extra "Locator" scripts from some of the components, leaving only one script in the scene.
+
+
+Activity 2:
+
+<img width="4080" height="2296" alt="image" src="https://github.com/user-attachments/assets/77eed324-90ba-4461-847a-e0c6080969e0" />
+
+Activity 3: 
+So far, I imported the assets 
+
+
+
+
+
 
 - Create bullet points by writing dashes.
 - Here's another bullet point entry.
