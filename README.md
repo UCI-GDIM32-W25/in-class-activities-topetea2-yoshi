@@ -66,7 +66,7 @@ Partner: Ruth Sun
 
 
 
-## Week 4
+# Week 4
 
 Activity 0
 
@@ -74,16 +74,16 @@ Activity 0
 Partner: Ruth Sun
 
 
-# Activity 1: 
+## Activity 1: 
 
 When mutiple locators are set in the scene, most of the gameobjects loses its script once the game runs. In our code we wrote "Locator.Awake()," which deletes the extra "Locator" scripts from some of the components, leaving only one script in the scene.
 
 
-Activity 2:
+## Activity 2:
 
 <img width="4080" height="2296" alt="image" src="https://github.com/user-attachments/assets/77eed324-90ba-4461-847a-e0c6080969e0" />
 
-Activity 3: 
+## Activity 3: 
 
 [Commit] [https://github.com/topetea2-yoshi/HW4/commit/d3ea75ab614152b49b0cbf1d8c96a0231f2b2ee3] 
 For MG4, I imported the assets in the unity project and slice every single sprite individually. 
