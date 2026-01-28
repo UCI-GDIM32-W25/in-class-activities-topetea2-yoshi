@@ -85,6 +85,7 @@ When mutiple locators are set in the scene, most of the gameobjects loses its sc
 ## Activity 3: 
 
 ![Commit] [https://github.com/topetea2-yoshi/HW4/commit/d3ea75ab614152b49b0cbf1d8c96a0231f2b2ee3] 
+
 For MG4, I imported the assets in the unity project and slice every single sprite individually. 
 
 
