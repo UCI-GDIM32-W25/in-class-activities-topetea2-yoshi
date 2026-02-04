@@ -134,7 +134,7 @@ Model-View-Controller:
 
 ## Activity 4: 
 
-## In attendance: Ruth Sun, Armando Topete, and 
+## In attendance: Ruth Sun, Armando Topete, and Micheal Lopez
 
 
 - Create bullet points by writing dashes.
