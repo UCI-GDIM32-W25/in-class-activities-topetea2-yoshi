@@ -90,7 +90,51 @@ For MG4, I imported the assets in the unity project and slice every single sprit
 
 
 
+# Week 5:
 
+
+## Activity 1:
+After full consideration, the designs between the interfaces and the abstract classes seem pretty straight forward, however I don't think breakability needs to be a seperate interface. 
+
+
+
+## Activity 2:
+
+
+
+## Activity 3: 
+## Rythm Scenario 
+
+## Team Shooter Scenario 
+
+
+
+## Farming Scenario
+
+ScriptableObject:
+ - a way to store the character and plant assets.
+ - durability
+ - How long it takes for a plant to grow.
+ - how much an item sells from every plant you harvest. 
+
+Inheritance with polymorphism: 
+ - Player class to add movement for character GameObject
+ - Plant class where the player has the ability to place crops at any area.
+ - Harvest class: Making the player break items to gather up resources.
+ 
+
+
+Finite machine with enums: determines how the player will interact with the plant and resources. 
+- idle, walk, run animations
+- 
+
+Model-View-Controller: 
+- How many plants are being calclated 
+
+
+## Activity 4: 
+
+## In attendance: Ruth Sun, Armando Topete, and 
 
 
 - Create bullet points by writing dashes.
