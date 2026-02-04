@@ -94,16 +94,43 @@ For MG4, I imported the assets in the unity project and slice every single sprit
 
 
 ## Activity 1:
-After full consideration, the designs between the interfaces and the abstract classes seem pretty straight forward, however I don't think breakability needs to be a seperate interface. 
+After fully looking at the code, the separation between the abstract Item class and the IBreakable interface is pretty straightforward. But personally, I don't think that breakability needs to be a seperate interface. Only two items in the systems are breakable, and both of them already share the same type of durability logic. Because of that, I feel like breakablilty could just be handled inside a child class of item, instead of them being two seprarate interfaces. 
 
+The current intefaces aren't wrong, but if I were to build a large project, I'd probably group breakable items into the same class, instead of using an interface. 
 
 
 ## Activity 2:
 
+## The Model:
+W1:
+ - EnemyW5Demo1
+ - ItemW5Demo1
 
+W2: 
+- EnemyStats Script
+- ItemW5Demo2 Script 
+
+## The View: 
+W1: Barely has UI Script
+
+W2:
+- Inventory UI Script 
+
+## The Controller: 
+ D1:
+ - PlayerW5Demo1
+ - EnemyW5Demo1
+ 
+ D2:
+ - PlayerW5Demo2 Script
+ - EnemyW5Demo2 Script
+ - Dialog Script (handles with input and game logic)
 
 ## Activity 3: 
 ## Rythm Scenario 
+Basic parent class + polymorphism 
+
+
 
 ## Team Shooter Scenario 
 
@@ -134,8 +161,9 @@ Model-View-Controller:
 
 ## Activity 4: 
 
-## In attendance: Ruth Sun, Armando Topete, and Micheal Lopez
-
+ In attendance: Ruth Sun, Armando Topete, and Micheal A. Lopez
+ 
+[Proposal](https://docs.google.com/document/d/1Ax2Mq7j3RwbZEpmFtbBaP7coQjp67ePpT8dRNFPnmxk/edit?tab=t.0#heading=h.y4j3q551ojs1)
 
 - Create bullet points by writing dashes.
 - Here's another bullet point entry.
