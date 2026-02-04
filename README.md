@@ -94,6 +94,7 @@ For MG4, I imported the assets in the unity project and slice every single sprit
 
 
 ## Activity 1:
+
 After fully looking at the code, the separation between the abstract Item class and the IBreakable interface is pretty straightforward. But personally, I don't think that breakability needs to be a seperate interface. Only two items in the systems are breakable, and both of them already share the same type of durability logic. Because of that, I feel like breakablilty could just be handled inside a child class of item, instead of them being two seprarate interfaces. 
 
 The current intefaces aren't wrong, but if I were to build a large project, I'd probably group breakable items into the same class, instead of using an interface. 
@@ -102,16 +103,21 @@ The current intefaces aren't wrong, but if I were to build a large project, I'd 
 ## Activity 2:
 
 ## The Model:
+
 W1:
  - EnemyW5Demo1
  - ItemW5Demo1
+
 
 W2: 
 - EnemyStats Script
 - ItemW5Demo2 Script 
 
 ## The View: 
+
+
 W1: Barely has UI Script
+
 
 W2:
 - Inventory UI Script 
@@ -127,16 +133,54 @@ W2:
  - Dialog Script (handles with input and game logic)
 
 ## Activity 3: 
-## Rythm Scenario 
-Basic parent class + polymorphism 
+## Rythum Scenario 
+
+
+ScriptableObject:
+  - Store hundreds of beats cleanly without cluttering the scene.
+  - Edit beat timing and patterns without touching code.
+  - Organizing beatmaps per song
+ 
+  
+Basic parent class + polymorphism:
+ - Beats share core fields (key, time, position)
+ - A parent beat class that shares logic in one place
+ - Have special beat types to override behavior
+
+
+Singleton:
+ - Timing source to stay in synced with the music
+ - Prevents timing conflicts or mutiple music managers running at once.
+ - Controlls song time, beat spawning, hit windows, and sync between visuals and audio. 
+
+
+## Team Shooter Scenario:
+
+Basic Parent Class + Polymorphism:
+ - characters share core systems (health, movement, animations)
+ - Base class to prevent repeatition of the same code to every player
+ - Characters override unique abilities like special attacks, Ultimate abilities, and movement abilities to not interfere with the structure.
+
+
+Abstract + Inferfaces: 
+ - Character have different type of abilities like damage and movement
+ - Keeps the character class intact from becoming bloated with other pieces of code.
+ - Creating interfaces or abstract Ability classes let each ability define its own behavior.
+
+
+ScriptableObject:
+ - Store character stats, ability data, cooldowns, and damage values
+ - keeping data away from interfering with scene objects.
+ - Balancing characters
+
+Finite Machine:
+ - Characters constantly switch between states (Idle, running, shooting, reloading)
+ - Sync gameplay logic with animations.
+ - Keeing translations cleaner and predictable.
 
 
 
-## Team Shooter Scenario 
-
-
-
-## Farming Scenario
+## Farming Scenario:
 
 ScriptableObject:
  - a way to store the character and plant assets.
@@ -148,15 +192,19 @@ Inheritance with polymorphism:
  - Player class to add movement for character GameObject
  - Plant class where the player has the ability to place crops at any area.
  - Harvest class: Making the player break items to gather up resources.
+ - Add potential interfaces like IPlantable, Iharvestable, or Ibreakable
  
-
 
 Finite machine with enums: determines how the player will interact with the plant and resources. 
 - idle, walk, run animations
-- 
+- Crops could naturally moved through states. (Seed > Grow > Harvest)
+- Ensures visuals and gameplay stay in sync as crops grow.
+
 
 Model-View-Controller: 
 - How many plants are being calclated 
+- Helps organize the farming logic cleanly.
+- keeps systems decoupled (crops could notify the UI without hard‑coded references.).
 
 
 ## Activity 4: 
