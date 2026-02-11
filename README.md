@@ -210,6 +210,30 @@ Model-View-Controller:
 ## Activity 4: 
 
  In attendance: Ruth Sun, Armando Topete, and Micheal A. Lopez
+
+
+ # Week 6:
+
+ 
+ ## Activity 1:
+
+ Having a problem with performance? 
+  
+   - The profiler could help - Window > Anaysis > Profiler
+
+ We tend to lose points if you don't have a proper itch build. 
+
+
+Gizmos are useful to resolve vectors?
+
+
+
+
+ ## Activity 2
+
+ In attendance: Ruth Sun, Armando Topete, and Micheal A. Lopez
+
+ 
  
 [Proposal](https://docs.google.com/document/d/1Ax2Mq7j3RwbZEpmFtbBaP7coQjp67ePpT8dRNFPnmxk/edit?tab=t.0#heading=h.y4j3q551ojs1)
 
