@@ -217,17 +217,56 @@ Model-View-Controller:
  
  ## Activity 1:
 
+ Profiler:
+ 
  Having a problem with performance? 
   
    - The profiler could help - Window > Anaysis > Profiler
 
- We tend to lose points if you don't have a proper itch build. 
+   - The Profiler can show how long each frame takes and which methods are slowing the game down?
+
+   - Debug.log spam and allocating variables inside loops can tank performance.
+
+   - For my final project, I could potentially use the Profiler to check if my movement or UI scripts are causing frame drops
+
+ 
+ 
 
 
-Gizmos are useful to resolve vectors?
+Gizmos:
+
+- Gizmos are useful to resolve vectors?
+
+- Gizmos can visualize things that don't normally show up in the Scene view, like range, spawn points, or detection areas.
+
+- I can use gizmos in my final project to debug player interaction zones or enemy patrol paths.
+
+
+Breakpoints: 
+
+- Breakpoints let me freeze the game at a specific line and inspect variable values.
+
+- This could be useful for debugging a characters movement or item interactions in my final project.
 
 
 
+Merging: 
+- Git conflicts happen when two people edit the same part of a file.
+
+- For my final project, we should avoid editing the same scene at the same time.
+
+
+
+
+Performance: 
+ - Using simple colliders could improves physics performance.
+
+- For my final porject, i'll avoid using mesh colliders and maybe keep physics simple.
+
+  
+Extra comments: 
+
+- We tend to lose points if you don't have a proper itch build?
 
  ## Activity 2
 
