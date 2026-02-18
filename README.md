@@ -274,6 +274,16 @@ Extra comments:
 
  [Proposal](https://docs.google.com/document/d/1Ax2Mq7j3RwbZEpmFtbBaP7coQjp67ePpT8dRNFPnmxk/edit?tab=t.0#heading=h.y4j3q551ojs1)
 
+
+
+
+
+ # Week 7:
+
+
+ ## Activity 1:
+ 
+
 - Create bullet points by writing dashes.
 - Here's another bullet point entry.
 
