@@ -311,14 +311,22 @@ state function (RunWanderState() or RunPursueState()) to run
   
   
   ## Activity 4: 
+  
   Ruth: Hand/gamecontroller, the player class, item class, 
+  
+  
+  
   Armando: UI, SFX, Item design, 
+  
+  
+  
   Micheal: World building, terrian, apple tree,  
 
 
 
   ## Activity 5: 
-  
+
+  [Commit](b275e04e672cb743551bd79d92b518c8ccd1af8a)
   
   
 
