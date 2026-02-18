@@ -326,9 +326,11 @@ state function (RunWanderState() or RunPursueState()) to run
 
   ## Activity 5: 
 
+
+  [Commit](https://github.com/rsun050/handy-dandy/commit/b275e04e672cb743551bd79d92b518c8ccd1af8a)
+
   
-  
-  [Commit](b275e04e672cb743551bd79d92b518c8ccd1af8a)
+  Some things that I've been working on is the UI and the character designs, which are still in early development. 
   
   
 
