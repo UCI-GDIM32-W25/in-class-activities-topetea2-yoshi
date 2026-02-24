@@ -274,6 +274,67 @@ Extra comments:
 
  [Proposal](https://docs.google.com/document/d/1Ax2Mq7j3RwbZEpmFtbBaP7coQjp67ePpT8dRNFPnmxk/edit?tab=t.0#heading=h.y4j3q551ojs1)
 
+
+
+
+
+ # Week 7:
+
+
+ ## Activity 1:
+
+   - Raycasting is important for navigation???
+   
+  
+   - hitInfo.point???
+
+
+   - The sphere attacted with the duck is Visualizing a sphere cast?
+
+   -  The _state variable is used to store the duck’s current state and decide which
+state function (RunWanderState() or RunPursueState()) to run
+
+ -  using a raycast for line of sight
+
+
+ 
+ ## Activity 2: 
+
+ 
+  In attendance: Ruth Sun, Armando Topete, and Micheal A. Lopez
+
+
+ 
+  ## Activity 3: 
+   
+  [Final Breakdown](https://docs.google.com/drawings/d/1TlOGyu_tVXlUOBFmQ2MWB6SKHNz_H9fCyD2_SFWiyGc/edit)
+  
+  
+  ## Activity 4: 
+  
+  Ruth: Hand/gamecontroller, the player class, item class, 
+  
+  
+  
+  Armando: UI, SFX, Item design, 
+  
+  
+  
+  Micheal: World building, terrian, apple tree,  
+
+
+
+  ## Activity 5: 
+
+
+  [Commit](https://github.com/rsun050/handy-dandy/commit/b275e04e672cb743551bd79d92b518c8ccd1af8a)
+
+  
+  
+  Some things that I've been working on is the UI and the character designs, which are still in early development. 
+  
+  
+
 - Create bullet points by writing dashes.
 - Here's another bullet point entry.
 
