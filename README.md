@@ -375,7 +375,7 @@ Make the mouse sensitivity start out lower, and give the player to open a Settin
 
 ## Activity 5:
 
-[Commit] 
+[Commit](https://github.com/rsun050/handy-dandy/commit/729cf2ffe54b90820bf5fa76cafdbd518d4b8b72)
 
 I was working on the Inventory UI and the code is in early development. 
 
