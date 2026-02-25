@@ -340,10 +340,33 @@ state function (RunWanderState() or RunPursueState()) to run
 
 Notes: 
 
-Pro processing 
 
 
-Package system
+Pro processing:
+
+- Adds a visual “filter layer” on top of the camera.
+- Doesn’t change gameplay — only the look and mood of the scene.
+- Small tweaks = huge difference in atmosphere.
+
+
+
+
+Global Volume Setup
+
+ - Create a Global Volume → assign a Profile.
+ - All effects live inside that profile.
+ - Toggling effects on/off helps compare changes quickly.
+
+
+
+Bloom
+
+- Makes bright areas glow.
+- Good for lights, pickups, UI highlights.
+
+
+
+Package system????
   
   
   
@@ -352,7 +375,7 @@ Package system
  ## Activity 2: 
 
  
-  In attendance: Ruth Sun, Armando Topete, and Micheal A. Lopez
+In attendance: Ruth Sun, Armando Topete, and Micheal A. Lopez
 
 
 
