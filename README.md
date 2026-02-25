@@ -369,7 +369,15 @@ Make the mouse sensitivity start out lower, and give the player to open a Settin
 
  - Micheal: All of the Game Design parts
  - Ruth: working on the programming
- - Armando: Physical hands design, Inventory UI, Quest UI, Animation, NPC dialog, 2D art for NPC characters. 
+ - Armando: Physical hands design, Inventory UI, Quest UI, Animation, NPC dialog, 2D art for NPC characters.
+
+
+
+## Activity 5:
+
+[Commit] 
+
+I was working on the Inventory UI and the code is in early development. 
 
 
 
