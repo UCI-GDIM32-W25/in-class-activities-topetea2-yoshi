@@ -334,7 +334,46 @@ state function (RunWanderState() or RunPursueState()) to run
   Some things that I've been working on is the UI and the character designs, which are still in early development. 
   
   
+# Week 8
 
+ ## Activity 1
+
+Notes: 
+
+Pro processing 
+
+
+Package system
+  
+  
+  
+  
+  
+ ## Activity 2: 
+
+ 
+  In attendance: Ruth Sun, Armando Topete, and Micheal A. Lopez
+
+
+
+
+## Activity 3: 
+Captian: Michael 
+
+Comments on our game: 
+Make the mouse sensitivity start out lower, and give the player to open a Settings menu where they can adjust their mouse sensitivity accordingly. Add more to do in the game, like a lake and cave in the back of the village. Add some more environmental props like bushes or wild-life. Fix the bug where looking at an object for the first time makes your mouse freak out. 
+
+
+
+## Activity 4: 
+
+ - Micheal: All of the Game Design parts
+ - Ruth: working on the programming
+ - Armando: Physical hands design, Inventory UI, Quest UI, Animation, NPC dialog, 2D art for NPC characters. 
+
+
+
+  
 - Create bullet points by writing dashes.
 - Here's another bullet point entry.
 
