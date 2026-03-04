@@ -405,7 +405,7 @@ I was working on the Inventory UI and the code is in early development.
 # Week 9 
 
 
-Activity 1: 
+## Activity 1: 
 
 Scaling:
 
@@ -434,13 +434,13 @@ How would you describe the problem of discerning whether or not your architectur
 
 
 
-Activity 2: 
+## Activity 2: 
 
 In attendance: Ruth Sun, Armando Topete, and Micheal A. Lopez
 
 
 
-Activity 3: 
+## Activity 3: 
 
  Captian: Micheal
 
@@ -450,16 +450,16 @@ Activity 3:
 
 
 
-Activity 4: 
+## Activity 4: 
 
 Overall, we are about half way done with our game, besides multiple UI's, polished visuals, dialogue, character designs, etc. My goal was suppose to finish up the inventory UI, but I ran into some issues when dealing with the code like not being about to interact with the UI or your items not being displayed into the UI. Not to mention, having workable hands into the scene. That would be something I will definiety be fixing this week where players are able to pick and drop items using their interactable hands, rather than seeing nothing. 
 
 
 
 
-Activity 5: 
+## Activity 5: 
 
-
+[Commit](613b341bd6ace34c2707b3fac1fe599ae25b0f27)
 
   
 - Create bullet points by writing dashes.
