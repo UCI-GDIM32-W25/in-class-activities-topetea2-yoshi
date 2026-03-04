@@ -459,7 +459,9 @@ Overall, we are about half way done with our game, besides multiple UI's, polish
 
 ## Activity 5: 
 
-[Commit](613b341bd6ace34c2707b3fac1fe599ae25b0f27)
+[Commit](https://github.com/rsun050/handy-dandy/commit/613b341bd6ace34c2707b3fac1fe599ae25b0f27)
+
+Early improvements on hands UI and establishing new concept art for the hands. Not to mention, adding a dialogue script where players are able to interact with the NPC's. 
 
   
 - Create bullet points by writing dashes.
