@@ -400,7 +400,64 @@ Make the mouse sensitivity start out lower, and give the player to open a Settin
 
 [Commit](https://github.com/rsun050/handy-dandy/commit/729cf2ffe54b90820bf5fa76cafdbd518d4b8b72)
 
-I was working on the Inventory UI and the code is in early development. 
+I was working on the Inventory UI and the code is in early development.
+
+# Week 9 
+
+
+Activity 1: 
+
+Scaling:
+
+How would you describe the problem of discerning whether or not your architectural solution will "scale" well? 
+
+   - It's performed (not addressed in the class)
+
+   - It's easy for users, whether they're other programmers or combat makes to add more data.
+
+
+   Examples: Designers, writers, artist
+
+
+   - All of the design patterns we've learned will help you write code that scales well.
+
+
+
+
+  Demo #1: Branching dialogue
+
+   - 2 scripts of Dialogue
+
+   - 1. Duck one dialogue
+    
+   - 2. Duck multiple Dialogue
+
+
+
+Activity 2: 
+
+In attendance: Ruth Sun, Armando Topete, and Micheal A. Lopez
+
+
+
+Activity 3: 
+
+ Captian: Micheal
+
+ Feedback from playtesters! 
+
+ - Add a crosshair to make interacting with the apples easier. Have an indicator that says you actually applied Mouse Sensitivity setting. Decrease pick up timer so you can both pick up and talk to Blacksmith NPC faster. Add dialogue options to other NPCs as well. Add text that tells the player they can press J to drop apples. Make apple hitbox bigger
+
+
+
+Activity 4: 
+
+Overall, we are about half way done with our game, besides multiple UI's, polished visuals, dialogue, character designs, etc. My goal was suppose to finish up the inventory UI, but I ran into some issues when dealing with the code like not being about to interact with the UI or your items not being displayed into the UI. Not to mention, having workable hands into the scene. That would be something I will definiety be fixing this week where players are able to pick and drop items using their interactable hands, rather than seeing nothing. 
+
+
+
+
+Activity 5: 
 
 
 
