@@ -468,4 +468,19 @@ Early improvements on hands UI and establishing new concept art for the hands. N
 - Here's another bullet point entry.
 
 
+
+
+# Week 10 
+
+## Activity 1:
+
+In attendance: Ruth Sun, Armando Topete, and Micheal A. Lopez
+
+
+## Activity 2: 
+
+
+
+
+
 Remove all placeholder text in order to get full credit for README file formatting.
