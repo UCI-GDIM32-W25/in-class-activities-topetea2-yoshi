@@ -479,6 +479,16 @@ In attendance: Ruth Sun, Armando Topete, and Micheal A. Lopez
 
 ## Activity 2: 
 
+Captian: Micheal 
+
+Make mouse sensitivity begin at the correct starting value, because it shows the player has a mouse sensitivity of 1, when that's not the case. Update the materials for the assets, since the materials are just basic colors right now. Add the remaining assets, including the monster, food item, apples, and sword.
+
+## Activity 3 
+
+Overall, we are officially half way done with our game, besides several UI's, polished visuals, dialogue, character designs, etc. My goal is to start designing the NPC characters, picking up items with the hands UI, completing the inventory UI, and designing several hand gestures. I should already have most of those systems at least basically working, so being behind shows that our project ended up being bigger and more detailed than we expect. It’s not a bad thing, just a sign that the scope is ambitious and every feature takes more time than I thought. My plan now is to focus on finishing the hands system, the inventory, and the NPCs so the rest of the game can come together faster.
+
+## Activity 4 
+
 
 
 
